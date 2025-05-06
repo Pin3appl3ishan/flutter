@@ -6,6 +6,6 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp (home: FirstView());
+    return MaterialApp(home: FirstView());
   }
 }
