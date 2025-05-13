@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 
 class BottomNavigationBarExampleApp extends StatelessWidget {
   const BottomNavigationBarExampleApp({super.key});
+  // const BottomNavigationBarExampleApp({key}): super(key: key);
 
   @override
   Widget build(BuildContext context) {
