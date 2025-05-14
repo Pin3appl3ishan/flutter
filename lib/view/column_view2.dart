@@ -18,7 +18,7 @@ class ColumnView2 extends StatelessWidget {
             ElevatedButton(onPressed: () {}, child: const Text('Button 2')),
             ElevatedButton(onPressed: () {}, child: const Text('Button 3')),
           ],
-        ),
+        ),  
       ),
     );
   }
